@@ -20,5 +20,7 @@ description: The fundamentals of report writing
 
 
 
-> \*\*Important:\*\* strong communication and writing skills are crucial to this field&#x20;
+
+
+> **Important:** strong communication and writing skills are crucial to this field&#x20;
 
