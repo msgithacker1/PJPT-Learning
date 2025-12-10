@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Passive Recon Overview](README.md)
+* [Reconnaissance Steps](reconnaissance-steps.md)
