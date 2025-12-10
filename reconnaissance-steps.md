@@ -15,16 +15,18 @@ description: >-
 
 ## 2. Discovering Email Addresses (OSINT-Related)
 
-\>**Tool:** Hunter.io
-
-**>Instructions:** Enter the name of a person/firm/website etc. and it will find the email address(es) related to them. Can be useful for credential mining as well if the emails double as usernames for accounts.
-
-This can be used for multipel&#x20;
-
-
-
-
-
 > Tool: Hunter.io
 >
 > Description: Enter the name of a person/firm/website etc. and it will find the email address(es) related to them. Can be useful for credential mining as well if the emails double as usernames for accounts.
+
+
+
+> Tool: voilanorbert.com
+>
+> Description: Can help find the email address of a specific person.
+
+
+
+> Tool: verifyemailaddress.io
+>
+> Description: Verifies an email and it will tell you if an email address is valid. Alternatively, you could also enter an email and try clicking on 'Forgot Password' to see whether an email you had in mind is valid.
